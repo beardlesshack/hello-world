@@ -1,4 +1,4 @@
-# Funny Gunny Phrase Generator VER3 
+# Funny Gunny Phrase Generator VER4
 
 
 
